@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-#### Skills 🛠️
+#### I'm Imantas and I'm really passionate about python and data scrapers ⛏️
+
+#### My skills 🛠️
 * Languages: Python, SQL
-
-
+* 
     | Py Frameworks |    Py Libs                     |
     | ------------- | ------------------------------ |
     | Selenium      | PyQT                           |
@@ -15,10 +16,11 @@
 
 
 * Extract data with API: Twillio, Telegram, Betfair.com, Matchbook.com
-* Cloud infrastructures: AWS, Oracle Cloud Infrastructure (OCI), DigitalOcean, Heroku
-* Other technologies: Tabula (pdf table extraction), OpenCV, 
+* ☁️ Cloud infrastructures: AWS, Oracle Cloud Infrastructure (OCI), DigitalOcean, Heroku
+* Other technologies: Tabula (pdf table extraction), Google Spreadsheet, OpenCV
 * DevOps: Linux, Git, Docker, Redis, Proxyfier, Virtualbox
-
+* 
+#### 📫 You can reach me:
 [LinkedIn](linkedin.com/in/imantas-šateika-178248243)
 
 <!--
