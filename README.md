@@ -2,22 +2,22 @@
 
 #### Skills 🛠️
 * Languages: Python, SQL
-- Python:
 
-|   Frameworks  |     Libs                       |
-| ------------- | ------------------------------ |
-| Selenium      | PyQT                           |
-| Scrapy        | Pandas                         |
-| Flask         | Lxml                           |
-|               | Camelot (pdf table extraction) |
-|               | Mysqldb, sqllite               |
-|               | mitmproxy                      |
+
+    | Py Frameworks |    Py Libs                     |
+    | ------------- | ------------------------------ |
+    | Selenium      | PyQT                           |
+    | Scrapy        | Pandas                         |
+    | Flask         | Lxml                           |
+    |               | Camelot (pdf table extraction) |
+    |               | Mysqldb, sqllite               |
+    |               | mitmproxy                      |
 
 
 * Extract data with API: Twillio, Telegram, Betfair.com, Matchbook.com
-* Using Cloud infrastructures: AWS, Oracle Cloud Infrastructure (OCI), DigitalOcean, Heroku
-* Other technologies: Tabula (pdf table extraction), OpenCV, Proxyfier, Virtualbox
-* DevOps: Linux, Git, Docker, Redis
+* Cloud infrastructures: AWS, Oracle Cloud Infrastructure (OCI), DigitalOcean, Heroku
+* Other technologies: Tabula (pdf table extraction), OpenCV, 
+* DevOps: Linux, Git, Docker, Redis, Proxyfier, Virtualbox
 
 [LinkedIn](linkedin.com/in/imantas-šateika-178248243)
 
