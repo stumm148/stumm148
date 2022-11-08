@@ -21,7 +21,7 @@
 * DevOps: Linux, Git, Docker, Redis, Proxyfier, Virtualbox
 * 
 #### 📫 You can reach me:
-[LinkedIn](linkedin.com/in/imantas-šateika-178248243)
+[LinkedIn](https://www.linkedin.com/in/imantas-šateika-178248243)
 
 <!--
 **stumm148/stumm148** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
