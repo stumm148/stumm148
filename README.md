@@ -10,9 +10,9 @@
     | Selenium      | PyQT                           |
     | Scrapy        | Pandas                         |
     | Flask         | Lxml                           |
-    |               | Camelot (pdf table extraction) |
+    | Playwright    | Camelot (pdf table extraction) |
     |               | Mysqldb, sqllite               |
-    |               | mitmproxy                      |
+    |               | Mitmproxy                      |
 
 
 * Extract data with API: Twillio, Telegram, Betfair.com, Matchbook.com
