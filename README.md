@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi👋
 
-#### I'm Imantas and I'm really passionate about python and data scrapers ⛏️
+#### Imantas here. Python and data scrapers are two things that I'm extremely passionate about.
 
 #### My skills 🛠️
 * Languages: Python, SQL
