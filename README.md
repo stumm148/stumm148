@@ -19,7 +19,7 @@
 * ☁️ Cloud infrastructures: AWS, Oracle Cloud Infrastructure (OCI), DigitalOcean, Heroku
 * Other technologies: Tabula (pdf table extraction), Google Spreadsheet, OpenCV
 * DevOps: Linux, Git, Docker, Redis, Proxyfier, Virtualbox
-* 
+
 #### 📫 You can reach me:
 [LinkedIn](https://www.linkedin.com/in/imantas-šateika-178248243)
 
