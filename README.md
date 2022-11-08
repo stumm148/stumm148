@@ -15,8 +15,8 @@
     |               | Mitmproxy                      |
 
 * ☁️ Cloud infrastructures: AWS, Oracle Cloud Infrastructure (OCI), DigitalOcean, Heroku
-* Other technologies: Tabula (pdf table extraction), Google Spreadsheet, OpenCV
 * DevOps: Linux, Git, Docker, Redis, Proxyfier, Virtualbox
+* Other technologies: Tabula (pdf table extraction), Google Spreadsheet, OpenCV
 * API: Twillio, Telegram, Betfair.com, Matchbook.com
 
 #### 📫 You can reach me:
