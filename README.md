@@ -14,11 +14,10 @@
     |               | Mysqldb, sqllite               |
     |               | Mitmproxy                      |
 
-
-* API: Twillio, Telegram, Betfair.com, Matchbook.com
 * ☁️ Cloud infrastructures: AWS, Oracle Cloud Infrastructure (OCI), DigitalOcean, Heroku
 * Other technologies: Tabula (pdf table extraction), Google Spreadsheet, OpenCV
 * DevOps: Linux, Git, Docker, Redis, Proxyfier, Virtualbox
+* API: Twillio, Telegram, Betfair.com, Matchbook.com
 
 #### 📫 You can reach me:
 [LinkedIn](https://www.linkedin.com/in/imantas-šateika-178248243)
