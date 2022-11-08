@@ -15,7 +15,7 @@
     |               | Mitmproxy                      |
 
 
-* Extract data with API: Twillio, Telegram, Betfair.com, Matchbook.com
+* API: Twillio, Telegram, Betfair.com, Matchbook.com
 * ☁️ Cloud infrastructures: AWS, Oracle Cloud Infrastructure (OCI), DigitalOcean, Heroku
 * Other technologies: Tabula (pdf table extraction), Google Spreadsheet, OpenCV
 * DevOps: Linux, Git, Docker, Redis, Proxyfier, Virtualbox
