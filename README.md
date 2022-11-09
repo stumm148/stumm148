@@ -5,14 +5,14 @@
 #### My skills 🛠️
 * Languages: Python, SQL
 * 
-    | Py Frameworks |    Py Libs                     |
-    | ------------- | ------------------------------ |
-    | Selenium      | PyQT                           |
-    | Scrapy        | Pandas                         |
-    | Flask         | Lxml                           |
-    | Playwright    | Camelot (pdf table extraction) |
-    |               | Mysqldb, sqllite               |
-    |               | Mitmproxy                      |
+    | Py Frameworks       |    Py Libs                     |
+    | ------------------- | ------------------------------ |
+    | Selenium            | PyQT                           |
+    | Scrapy              | Pandas                         |
+    | Flask               | Lxml                           |
+    | Playwright          | Camelot (pdf table extraction) |
+    | Twisted(TCP server) | Mysqldb, sqllite               |
+    |                     | Mitmproxy                      |
 
 * ☁️ Cloud infrastructures: AWS, Oracle Cloud Infrastructure (OCI), DigitalOcean, Heroku
 * DevOps: Linux, Git, Docker, Redis, Proxyfier, Virtualbox
