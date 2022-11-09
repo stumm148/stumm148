@@ -11,7 +11,7 @@
     | Scrapy              | Pandas                         |
     | Flask               | Lxml                           |
     | Playwright          | Camelot (pdf table extraction) |
-    | Twisted(TCP server) | Mysqldb, sqllite               |
+    | Twisted (TCP server)| Mysqldb, sqllite               |
     |                     | Mitmproxy                      |
 
 * ☁️ Cloud infrastructures: AWS, Oracle Cloud Infrastructure (OCI), DigitalOcean, Heroku
